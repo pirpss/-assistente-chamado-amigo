@@ -1,0 +1,16 @@
+{
+  "name": "RafaelSolutions Assistant",
+  "short_name": "RS Assistant",
+  "description": "Assistente de voz futurista para registrar chamados.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05000f",
+  "theme_color": "#0a0014",
+  "icons": [
+    { "src": "/__l5e/assets-v1/00a6f329-b96a-4c41-b0dc-74da70fff644/icon-rs-neon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/__l5e/assets-v1/c64004a6-1b95-4f67-96db-0e2815a20314/icon-rs-neon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/__l5e/assets-v1/c64004a6-1b95-4f67-96db-0e2815a20314/icon-rs-neon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
